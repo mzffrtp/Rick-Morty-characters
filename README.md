@@ -1,10 +1,11 @@
 # Rick-Morty-characters
 
-# I coded something funny. Follow me all ricky and morth fans. 
-### Do you want to remember how your favourite fan loook s like or want to see all the characters in series?
+## I coded something funny. Follow me all rick and morty fans.
 
-#### A JS real life project was coded by wiritng some css. Didn´t want to bootstarp for styling, just wanted to write some css at this.
+## Do you want to remember how your favourite character looks like or want to see all the characters in series?
 
-#### Search bar and character cards were created by JS by an open source API using BSD license.
+### A js real life project was coded by writing some css. Didn´t want to bootstrap for styling, just wanted to write some css.
+
+### Search bar and character cards were created by js by an open source API using BSD license.
 
 ![](screen.gif)
